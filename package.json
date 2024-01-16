@@ -1,0 +1,19 @@
+{
+  "name": "lorem-ipsum-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lorem-ipsum-gen": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8"
+  }
+}
