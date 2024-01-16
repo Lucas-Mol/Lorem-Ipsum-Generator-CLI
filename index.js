@@ -16,7 +16,7 @@ function getParagrahpsFromArgs() {
     const numberParagraphs = argv[argIndex]
     
     if(isNaN(numberParagraphs)) {
-        console.log("The provided argument is not a valid number is not a number")
+        console.log("The provided argument is not a valid number")
         exit(1)
     }
 
